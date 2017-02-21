@@ -1,6 +1,6 @@
 require "language/node"
 
-class Yarn0181 < Formula
+class YarnV0181 < Formula
   desc "Javascript package manager"
   homepage "https://yarnpkg.com/"
   url "https://yarnpkg.com/downloads/0.18.1/yarn-v0.18.1.tar.gz"
