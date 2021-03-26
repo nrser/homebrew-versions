@@ -1,6 +1,6 @@
 require "language/node"
 
-class YarnAt0212 < Formula
+class YarnAT0212 < Formula
   desc "Javascript package manager"
   homepage "https://yarnpkg.com/"
   url "https://github.com/yarnpkg/yarn/releases/download/v0.21.2/yarn-v0.21.2.tar.gz"
