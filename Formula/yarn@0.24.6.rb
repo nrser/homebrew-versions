@@ -4,8 +4,6 @@ class YarnAT0246 < Formula
   url "https://github.com/yarnpkg/yarn/releases/download/v0.24.6/yarn-v0.24.6.tar.gz"
   head "https://github.com/yarnpkg/yarn.git"
 
-  bottle :unneeded
-
   depends_on "node"
 
   def install
